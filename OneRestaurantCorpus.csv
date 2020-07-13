@@ -1,0 +1,277 @@
+Review_id,Phrase,AspectCategory,Polarity,TripadvisorReviewStarsRating
+0,We went for my husbands birthday having high expectations however we were very disappointed.,General,-1,1
+0,"Firstly we were hoping to sit in the conservatory but was told it was fully booked , however the whole time we were there there were two empty tables there.",Staff,-1,1
+0,As soon as we got there the waiter asked us our food order without giving us time to look at the menu or even ask for our drinks order first.,Staff,-1,1
+0,The gin and tonic was very small for the price we paid and presented very averagely. ,Drinks/Price,-1,1
+0,Our starter was very tasty on a positive note.,Food,1,1
+0,"However the vegetarian meal I ordered was not very nice at all , and the potatoes were definitely still raw.",Food,-1,1
+0,I had to struggle to finish it but couldn't as it tasted quite bad.,Food,-1,1
+0,I had to even get a pizza after as I was still hungry on leaving the restaurant!,Food,-1,1
+0,However my husband did enjoy his meat dish so maybe this just isn't the place to go to as a vegetarian!,Food,0,1
+0,However I feel when you are paying this much for a restaurant the food should meet that standard.,Price/Food,-1,1
+0,"I reminded one of the waiters that it was my husbands birthday and he promised he would bring something out for him , however they brought us our bill and seemed to have forgotten about this.",Staff,-1,1
+0,I had to then remind them again but by this point we were just keen to leave so I told them not to worry about whatever little surprise they were going to bring out for him.,Staff,-1,1
+0,I Definitely will not be returning !,General,-1,1
+1,"Book 2 months in advance as wanted to be seated in a flower room, separate email was sent requesting to be seated there.",None,0,1
+1,Travelled few hours for a day in London and celebratory Birthday Lunch only to be extremly dissapointed on arrival as they could not accomodate us as the flower room was fully booked.,Staff,-1,1
+1,Never i would go there again or recommend it to anyone else.,General,-1,1
+1,"Customers should be told in advance, whether they will be seated as per their booking request or not, to avoid disappointment on a day and ruining the whole trip.",General/Staff,-1,1
+1,This happened twice (once booked 3 weeks in advance and once 2 momths in advance).,None,0,1
+2,We had a genuinely terrible experience which has left us wondering how on earth this tourist-trap restaurant has such good reviews.,General,-1,1
+2,"Far from romantic (plastic flowers hanging from ceiling), uncomfortably close to other dinners seating, average to bad food.",Ambience/Food,-1,1
+2,Treated with contempt by staff and management.,Staff,-1,1
+2,So far away from expectations that feel the advertising was utterly misleading.,General,-1,1
+3,It was the worst experience i have had in years!,General,-1,1
+3,"The service was poor, I had to always ask for my glass to be topped up from the champagne we bought, also table was wobbly so had to ask 3 times to fix it and then also show how to fix it.",Staff,-1,1
+3,Told waitress i don't like raw onions and the starter that she suggested tuna tartar tasted like onions and the fish wasn't cut correctly as it still had lots of the white bits and it also looked quite grey and old.,Staff/Food,-1,1
+3,"For main course i had Mackerel as per waitress suggestion and it was offensively salty like it couldn't be more salty, it was inedible, i had truffle mash as side dish and it was bland and probably heated too many times as the texture and look was un appetising.",Food,-1,1
+3,My husband and I canceled the deserts as couldn't take it anymore and left hungry!,General,-1,1
+3,the place also had a weird old milk smell and in day time you can see how old the decorations are and how dirty they are.,Ambience,-1,1
+3,Avoid at all costs!,General,-1,1
+4,Yes the reviews are great and yes if you get downstairs in the conservatory it's lovely.,Ambience,1,1
+4,"However, they'll take your booking on that basis even though the table was never available for you, just so you don't cancel (most people just begrudgingly accept it when they're told they can't sit down there).",Staff,-1,1
+4,"Therefore DO NOT expect to be sat in the conservatory even though you've booked it well in advance, there's a good chance it's been overbooked and they wont care.",Staff,-1,1
+4,"Also dont believe the responses on here from management to negative reviews, it's rubbish.",Staff,-1,1
+4,The rest of the restaurant is standard looking at best and isnt what people book here for at all!,Ambience,0,1
+4,Onto the staff - they're believing their own review hype.,Staff,-1,1
+4,"Get over your selves, you're waiters and waitresses not rock stars, lose the arrogance, we pay your wages!",Staff,-1,1
+4,"The food and wine, good, but the prices are massively ramped up for the quality.",Food/Drinks/Price,-1,1
+4,They're trading on their positive reviews from City lovies and pricing accordingly.,General,-1,1
+4,They really do see you coming,None,0,1
+5,I was recommended this place to celebrate a special occasion.,General,0,5
+5,The online booking service is straightforward but I was suprised that the restaurant was always fully booked.,General,1,5
+5,I thought that is a good sign.,General,1,5
+5,The restaurant is lovely and designed to deliver intimate ambience.,Ambience,1,5
+5,The staffs were great and friendly.,Staff,1,5
+5,The food were really great and delicious.,Food,1,5
+5,I really enjoy the experience and defintely will come back again.,General,1,5
+6,"Great food, great service and an overall wonderful experience.",Food/Staff/General,1,5
+6,"We had the 'Tu me manques' as a sharing cocktail before the tasting menu, all so good!",Drinks,1,5
+6,"Also, this place has the best truffle pasta ever.",Food,1,5
+6,"I'm looking forward to returning and trying the à la carte, hopefully in the romantic dining room",General,1,5
+7,Service was fantastic.,Staff,1,5
+7,Food was delicious and the menu offers something for everyone.,Food,1,5
+7,One of the biggest wine lists in the country and a lovely beautiful setting making you forget you have the busy Covent Garden area just steps away.,Drinks/Ambience/Location,1,5
+8,We have been a number of times and have never been disappointed.,General,1,5
+8,"Service is exceptional, polite, attentive, efficient and friendly.",Staff,1,5
+8,"I've been to many restaurants over the world and this is the best for service, food and value.",Food/Staff/Price,1,5
+8,We had the theatre menu and we all enjoyed our choices.,Food,1,5
+8,My beef pasta starter was packed with flavour and the sea bream main was perfect.,Food,1,5
+8,Bravo chef.,Food/Staff,1,5
+8,A wonderful selection of wines and some good advice.,Drinks/Staff,1,5
+8,Of course we will return as soon as possible.,General,1,5
+8,Top tip book well in advance.,General,1,5
+9,We absolutely loved our evening at Clos Maggiore last night for our anniversary!,General,1,5
+9,"Such a special place - we were lucky enough to get a table in the conservatory which is just stunning, and beautifully romantic.",Ambience,1,5
+9,The service was absolutely top notch and very attentive.,Staff,1,5
+9,The food and wine was also superb,Food/Drinks,1,5
+9,"I especially loved the cheesecake, oh, and the Le Jardin cocktails!",Desserts/Drinks,1,5
+9,A perfect evening.,General,1,5
+10,booked the restaurant for my anniversary as it advertises itself as ‘the most romantic restaurant in the world’,None,0,1
+10,What I was expecting was the lovely drapery of flowers as is shown still on their website but instead found that it was already decorated head to toe in Christmas Knick-knacks.,Ambience,-1,1
+10,Not exactly romantic.,Ambience,-1,1
+10,We then ordered a £65 bottle of wine which was not worth the price and tasted of vinegar.,Drinks/Price,-1,1
+10,"Although mentioning my dislike to the sommelier multiple times, and questioning the taste, I was just told ‘this is how it’s suppose to be’.",Staff,-1,1
+10,No recommendation on another wine.,Staff,-1,1
+10,No suggestion or invitation to try something else...,Staff,-1,1
+10,so I was left with quite literally a sour taste in my mouth throughout the whole dinner.,None,-1,1
+10,"Finally I went to the powder room before leaving, and there was no toilet paper.",General,-1,1
+10,"It’s unfortunate because the food was nice, but the entire experience was awful.",Food/General,-1,1
+11,Being called the day before to be told you are not going to be sat downstairs - but if you cancel you will loose your deposit -is not acceptable.,Staff,-1,1
+11,Nobody would choose to pay these prices to sit in a box room upstairs.,Price/Ambience,-1,1
+11,I actually sat there wanting to cry!,Ambience,-1,1
+11,Looking around a room full of suckers who have also been tricked!,Ambience,-1,1
+11,Just get rid of the upstairs room and then you will stop upsetting people and stop getting bad reviews!,General,-1,1
+12,"We used to love coming here, it used to be such a joy.",General,1,1
+12,The service on our visit last week was just appalling.,Staff,-1,1
+12,And some of the staff are a little arrogant.,Staff,-1,1
+12,"The food was just okay, nothing special.",Food,0,1
+12,So very disappointed to cross this off our list of favourite restaurants as we used to do look forward to coming here.,General,-1,1
+13,I have reserved a table for my partner birthday 10 days before the date.,None,0,1
+13,"On their website, they state that you cannot book their conservatory because it based on first come first serve basis, but I have just received an email saying that the conservatory has been fully booked 3 days before the date we were to attend.",General,-1,1
+13,I am very disappointed and feel let down so now i will have to look for a place where they appreciate customers.,Staff,-1,1
+14,My other half made a reservation for our anniversary during our early weekend stay in London and for the price it’s not the service I was expecting.,Price/General,-1,1
+14,Heres why: I ordered the chicken and duck main course and suffered from servere food poisoning which I can confirm is from this restaurant as my partner and I did not eat anything earlier as I wanted to indulge in what we thought would be extraordinary food based on reviews etc.,Food,-1,1
+14,So for this massive inconvenience we were left to cancel our plans for our anniversary as I took a turn for the worst the next day.,None,-1,1
+14,For an established restaurants it’s not at the hygiene standard that it should be which management should take on board going forward.,General,-1,1
+14,Will not be returning to this restaurant again.,General,-1,1
+15,"Undoubtedly Clos Maggiore has a beautiful ambience, but considering how hyped it is, and well reviewed, we expected a lot more.",Ambience/General,0,1
+15,"We requested a vegetarian tasting, booked over a month in advance (how is it so hard to get a reservation here?!), and the food was below average.",Food,-1,1
+15,"This was the one restaurant we were looking forward to, but we can confirm it is nothing but a tourist trap.",General,-1,1
+15,"London is brimming with incredible food (and I'm from New York, so I can vouch for this!), go elsewhere and save your money.",General,-1,1
+16,We love Clos Maggiore and dine here every time we are in London.,General,1,1
+16,Tonight was quite a different experience.,None,0,1
+16,There was a mouse right by our table.,General,-1,1
+16,As the table cloths fall to the floor we did not know if tbe mouse ran under our table.,None,0,1
+16,This was not a pleasant experience.,General,-1,1
+16,The management did give us a free desert.,Staff,1,1
+16,I would have much preferred an apology and/or someone moving the mouse out of the conservatory dining area.,Staff,-1,1
+16,When we left we were asked how we enjoyed our meal.,None,0,1
+16,I said nothing as I did not want to be rude.,None,0,1
+16,The worst dining experience I have ever had,General,-1,1
+17,Don't book here if it's important.,General,-1,1
+17,We booked a table at the Conservatory more than 3 MONTHS in advance and they canceled the booking 3 DAYS before.,Staff,-1,1
+17,We had to change the plans of our anniversary.,None,0,1
+17,We called them and we tried to find out what happened and they did nothing.,Staff,-1,1
+17,"Basically, they don't care about us.",Staff,-1,1
+18,"Having read all the excellent reviews on tripadvisor, we were really excited to visit clos maggiore for our anniversary.",General,1,1
+18,We went for lunch and chosen the set menu. The food looked and tasted great.,Food,1,1
+18,However after we left the restaurant me and wife did not feel good.,None,-1,1
+18,"When we got home we felt sick, all night was vomitting and toilet issues.",None,-1,1
+18,We had not had any food before going to the restaurant as we were excited to taste the food...,None,0,1
+18,Unfortunately our anniversary did not end very well.,General,-1,1
+19,The staff are rude.,Staff,-1,1
+19,The restaurant is manipulative and I don’t know how they get away with forcing people to attend and sit upstairs or loose a £50 a deposit.,Staff/Price,-1,1
+19,They need to stop this or be shut down.,General,-1,1
+19,No one wants to pay over £100 to sit in a claustrophobic box room when they believed they were sitting downstairs.,Ambience/Price,-1,1
+19,They know exactly what they’re doing and it is wrong and when people are unhappy they don’t care!,General,-1,1
+20,Cosy atmosphere.,Ambience,1,5
+20,Excellent food and service.,Food/Staff,1,5
+20,The set menu on Sunday was very tasty.,Food,1,5
+20,Top notch restaurant.,General,1,5
+21,Service - was as it should be from such a good restaurant - excellent.,Staff,1,5
+21,"Set lunch menu - terrific taste, quality and value, portion size was really good",Food,1,5
+21,The option to change an included glass of prosecco to a half bottle of wine for £4 was also a great idea - and very drinkable wine.,Drinks,1,5
+21,Atmosphere was what you made it - and we all really enjoyed being there. - even though we were not in the conservatory,Ambience,1,5
+22,Amazing restaurant!,General,1,5
+22,We really enjoyed the food the ambience and everything.,Food/Ambience,1,5
+22,I went there for my birthday with my husband.,None,0,5
+22,The restaurant served a complimentary sweets plate with happy birthday written on it.,Staff,1,5
+22,That’s very sweet.,None,1,5
+22,The food is not cheap but you feel it’s worth it.,Food/Price,1,5
+22,They put effort in every single dish and it’s reflected in the balanced mix of taste of ingredients and beautiful presentation.,Food,1,5
+22,We wanted to sit in the conservatory but didn’t get that seat.,Ambience,0,5
+22,That’s probably an excuse to come back again for another occasion.,General,1,5
+23,The experience is worth every penny.,General,1,5
+23,"I loved the atmosphere, food was delicious and service impeccable.",Food/Ambience/Staff,1,5
+23,I really liked that restaurant is small and makes you feel on a very special environment.,Ambience,1,5
+23,Also despite is an above the average price is up to you how much to pay mainly on the wine selection that is HUGE.,Drinks/Price,0,5
+23,During our dinner a couple of anniversary celebrations and one proposal.,None,0,5
+23,Definitely a very romantic place,Ambience,1,5
+24,Had a wonderful dinner with my husband the other night.,General,1,5
+24,The restaurant was beautiful.,Ambience,1,5
+24,The service was unobtrusive and attentive.,Staff,1,5
+24,The pasta with truffles and halibut were delicious,Food,1,5
+25,Such a beautiful setting!,Ambience,1,5
+25,The food was rich and delicious and the sommelier was excellent assisting us uneducated plebs in selecting our wine.,Food/Staff/Drinks,1,5
+25,"This isn’t an everyday restaurant for a working class couple, but for a special occasion it is perfect.",General,1,5
+25,"We celebrated our anniversary here and everything about the ambiance, service and food exuded elegance.",Ambience/Staff/Food,1,5
+25,Had lots of options for gluten free and vegetarian too.,Food,1,5
+26,We had a truly wonderful time today at Clos Maggiore.,General,1,5
+26,We had the tasting menu and wine flight which was absolutely delicious!,Food/Drinks,1,5
+26,The service was impeccable and we felt like the only people in the restaurant despite it being full! A really fantastic experience - we couldn’t fault it - thank you.,Staff,1,5
+27,"Great food, best wine pairing and Anthony is the star of the show.",Food/Drinks/Staff,1,5
+27,We go twice a year and always get great food and service.,Food/Staff,1,5
+27,This January’s highlight was Anthony picking up from my partners selection she didn’t eat meats and asked if she wanted the cod crumb without the cured ham which we hadn’t spotted.,Staff,1,5
+27,Booked up again for May this year and anniversary again in 2021,None,0,5
+28,I had Sunday lunch here with my wife and it was a great experience.,General,1,5
+28,from entering the restaurant to leaving we both completely enjoyed the time we were there and everything about the place.,General,1,5
+28,"The staff are friendly, professional and helpful - never intrusive, and offer a great level of service.",Staff,1,5
+28,"The food we had was first class; we had the 3 course lunch menu and were very impressed with the quality, presentation and taste for everything we ate.",Food,1,5
+28,I exchanged a glass of bubbly for a 1/2 bottle of red wine which was also lovely and went very well with my short rib main course.,Drinks,1,5
+28,I would say that Clos Maggiore is every bit as good as many of the Michelin starred restaurants I've experienced.,General,1,5
+29,If you are looking for a good restaurant for a special event you need to consider Clos Maggiore in Covent Garden.,General/Location,1,5
+29,A very popular restaurant so you need to book well in advance.,General,1,5
+29,"The surroundings within the restaurant are beautiful the service was excellent and the food exquisite, strongly recommend it.",Location/Staff/Food,1,5
+30,Called the night before to say we were sat upstairs but told it was as beautiful.,None,0,1
+30,It was a tiny box room which looked like a pub!,Ambience,-1,1
+30,We didn’t even see the downstairs.,Ambience,0,1
+30,Our meal was over £100 despite deciding to cut it short because of our upset.,Prince,-1,1
+30,Staff didn’t even care that we were upset.,Staff,-1,1
+30,Just disgusted by everything to do with the place.,General,-1,1
+31,My fiancé and I wanted to have a look at the restaurant/venue before we booked our 10 people's dinner.,None,0,1
+31,But unfortunately for the clos maggiore we decided not to by the way we where treated by the staff.,Staff,-1,1
+31,As soon as we entered the restaurant the girls at reception started to look at us from top to bottom like we where some type of beggars or something.,Staff,-1,1
+31,Then we asked if we could see the reception room but we where denied entry even tho it was early afternoon and the place was empty.,Staff,-1,1
+31,I feel sorry for them since they like to look down on people just because we where young and dressed casually.,Staff,-1,1
+31,We could have spent loads of money in there but is totally their lost.,None,0,1
+31,Instead we've opted for the aqua shard were we had the best time ever and were treated very well by the young well trained and polite staff.,Staff,1,1
+31,"I am afraid but I will not tolerate a servant to make me feel any type of way, Clos maggiore should train their staff and maybe be less snobbish since they aren't even all that, plenty of other fantastic places in London!!!!!",Staff,-1,1
+31,I will make sure to inform everyone I know to avoid this place!!,General,-1,1
+32,"Do not be fooled by the nice pictures, the majority of their tables are not in the main rooms, they try to cram as many seats as possible in the hallway and the experience is completely different",Ambience,-1,1
+32,And unless you are a repeat customer they will put you in the hallway.,Staff,-1,1
+32,"The food itself is not worth the price, its essentially a high end brasserie with 5 tables in a well decorated room and 10 in the entrance / hallway acting like a 2 star michelin restaurant.",Food/Price/Ambience,-1,1
+32,There are way better options for that price point.,Price,-1,1
+33,We unfortunately had a family bareavement and wished to change our reservation.,None,0,1
+33,We were told that we couldn't change our booking and would be charged the cancellation fee.,General,-1,1
+33,Very upsetting and very unprofessional customer service.,Staff,-1,1
+34,Very disappointed.,General,-1,1
+34,Went in expecting to be served in the beautiful room but was made to sit at a table near the bar.,Ambience,-1,1
+34,When I asked if we could go to the room with the floral display which is why we wanted to dine there they said that people had booked before us (we had booked 3 months in advance) and therefore they got the good tables.,Staff,-1,1
+34,I said that it was a bit sad we can't dine there and the waiter just shrugged.,Staff,-1,1
+34,Save your money and go elsewhere or state your preferences when booking otherwise they will sit you in the worst place possible ruining your date.,Staff/General,-1,1
+35,Came here for valentines day... and The restaurant is beautiful ONLY in the conservatory area but overall seems too congested.,Ambience,-1,1
+35,I felt very rushed when having my dinner and the service was not that good.,Food/Staff,-1,1
+35,I wanted nice photos to help promote the place itself but the manager rudely approached me asking me to stop taking photos because it disturbed others? - ok.,Staff,-1,1
+35,the food is MEDIOCRE - had terrible food poisoning right after and that day i didn't have anything apart from this dinner.,Food,-1,1
+35,dessert was really good though.,Desserts,1,1
+35,overall not coming back and only recommended if you want to see fake plants in a box room.,General,-1,1
+36,"Worst service ever, never been to a restaurant that rush customers from the beginning to the end!!!",Staff,-1,1
+36,100% overrated!!,General,-1,1
+36,"Having been to most of the top restaurants in london, this is the worst by service, rude waiter!!",Staff,-1,1
+36,Never gonna come back here again,General,-1,1
+37,We not have a good experience.,General,-1,1
+37,Booked through Open Table and perhaps we should have asked our hotel concierge to book for us as this establishment definitely has the snob factor.,None,0,1
+37,"We had dressed upscale, yet were stuck in a tiny upstairs room with just a few tables where people were dressed in jeans.",Ambience,-1,1
+37,"The room was hot and very uncomfortable, very quiet and being so small it was forced intimacy with the other people.",Ambience,-1,1
+37,Terrible vibe.,General,-1,1
+37,We ordered the five course tasting menu with wine pairing and both agreed that the food and wines were quite mediocre.,Food/Drinks,-1,1
+37,Frankly we couldn't wait to get out of there.,General,-1,1
+37,"Very expensive, we wouldn't go again or recommend it.",Price,-1,1
+37,"So many fantastic restaurants in London, if you're going to spend this kind of money, you expect an outstanding experience",Price,-1,1
+38,booked this restaurant for a special occasion.,None,0,1
+38,There are a number of tables by the bar and crammed lounge away from the main part of the restaurant.,Ambience,0,1
+38,If you are seated here I recommend you walk away and save your money.,Ambience/Price,-1,1
+38,They are shockingly placed.,Ambience,-1,1
+38,you do not feel part of the restaurant which from a distance did look nice.,Ambience,-1,1
+38,You do not go to this restaurant for the slightly above average food you go for the whole experience which we did not get.,General,-1,1
+38,service was good at the start but deteriorated as the afternoon went on to the point that we were forgotten about completely.,Staff,-1,1
+38,We ordered a bottle of wine this is taken away for the waiter to bring back to top up.,Staff,-1,1
+38,After the bottle was around half consumed it was not topped up again and we had to go to the bar to pick up our bottle and fill our glasses ourselves.,Staff,-1,1
+38,maybe leave the bottles by the table if the staff are not attentive enough.,Staff,-1,1
+38,Overall a shocking lunch.,General,-1,1
+38,finished with host hilariously asking us if we want to go and look at the nice part of the restaurant.,Staff,-1,1
+39,Rude front of house who were very unhelpful.,Staff,-1,1
+39,40th birthday treat and had to walk out as we we requested a nice table seeing as it was a special occasion rather than just a run off the mill dinner or a tourist walk in.,None,-1,1
+39,My wife had been here many times before but loyalty meant nothing.,Staff,-1,1
+39,Lady on hand was hugely unhelpful and just shrugged her shoulders when we dared complain.,Staff,-1,1
+40,We came at Christmas time and were blown away by the beautiful decorations,Ambience,1,5
+40,Immaculate staff and amazing food.,Staff/Food,1,5
+40,I would recommend the rabbit starter.,Food,1,5
+40,The food was prepared beautifully and everything was delicious.,Food,1,5
+41,I have had a wonderful night at Clos Maggiore!,General,1,5
+41,I celebrated my birthday with family here.,None,0,5
+41,I would like to thank you all the waiters there!,Staff,1,5
+41,They provided the best service for me and let me have a unforgettable memory there!,Staff,1,5
+41,Thank you for their lovely arrangement of birthday pastries plate with candle light!,Staff,1,5
+41,I love it so much!,General,1,5
+41,"Foods are tasty, especially one signature dessert, but sorry that I forgot the name, I would attach photos for reference!",Food/Desserts,1,5
+41,I truly recommend this restaurant and I will come again next time!,General,1,5
+42,We went for lunch and I hadn't been to Clos Maggiore before but it had been recommended by a friend.,General,1,5
+42,I tend to be quite critical but I was very pleasantly surprised.,General,1,5
+42,LOVELY atmosphere with the fire blazing and we were upstairs.,Ambience,1,5
+42,Anthony was single handedly waiting on all the upstairs tables and I thought that couldn't possibly work.,None,0,5
+42,"However, he is a master of his profession and somehow he juggled all the tables providing excellent service, even managing to find time to talk to customers.",Staff,1,5
+42,The food was excellent : good portions / good quality / nicely presented and could not be faulted.,Food,1,5
+42,Enjoyed the whole experience and its definitely a restaurant that I would recommend to my friends and I will be visiting on a regular basis.,General,1,5
+42,They even have vegan options if you ask.,Food,1,5
+43,"Love to come here, especially for lunch.",General,1,5
+43,The place is magical.,General,1,5
+43,The food is exquisite and the lunch menu is good value,Food/Price,1,5
+44,The atmosphere was fabulous and the staff were delightful.,Ambience/Staff,1,5
+44,The food was great and the Christmas decorations were out of this world.,Food/Ambience,1,5
+45,"Having just finished a very special anniversary meal at Clos Maggiore, we thought it was important to praise our head waitress Veronica.",Staff,1,5
+45,"She kept everything smooth running, had great knowledge and advice about the food and wine.",Food/Drinks,0,5
+45,"If you are lucky enough to get a seat here, hopefully you will be even luckier and get Veronica to serve you.",Staff,1,5
+46,We had the pre theatre menu early evening and it was delicious.,Food,1,5
+47,we paid the supplement and had the hake..good choice.,General,1,5
+47,Service very attentive and efficient.,Staff,1,5
+47,A return visit in the new year is a must,General,1,5
+48,Food is amazing and very tasteful and the wine selection is beyond expectations.,Food/Drinks,1,5
+48,Definitely recommend this place,General,1,5
+49,"We ate here 21st November for our Anniversary, we had our first meal as a couple 2014.",None,0,5
+49,This is a wonderful special restaurant.,General,1,5
+49,The arrival to departure was 1st class.,General,1,5
+49,We opted for Pre Theatre menu and the choice and quality are unbeatable.,Food,1,5
+49,"We were given a special Anniversary gift see picture, my husband opted for the cheeseboard, we have never seen a selection like this.",Food,1,5
+49,Please book here and enjoy,General,1,5
