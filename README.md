@@ -18,6 +18,8 @@ Each sentence of ORCo has at least an aspect category annotated (Food, Desserts,
 
 The file consists on 4 columns: Review_id in order to group sentences by the review they belong to, Phrase which contains the text of the sentence, AspectCategory which contains the aspects categories of each sentence (separated by ‘/’ if there are various aspect categories in a sentence), Polarity which indicates the sentiment polarity of each sentence and TripadvisorReviewStarRating which contains the number of stars given by the opinion holder in Tripadvisor.
 
+This dataset has been employed for the evaluation of an opinion summarisation methodology that it is under review. 
+
 ## Example
 We show an example of annotation in ORCo dataset:
 
@@ -32,7 +34,7 @@ First column indicates which opinion the sentence belong to. Second column is th
 
 
 ## Citation
-This dataset has been employed for the evaluation of an opinion summarisation methodology that it is under review. Please use the following citation:
+Please use the following citation:
 
 ```
 Publication under review
