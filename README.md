@@ -29,10 +29,10 @@ First column indicates which opinion the sentence belong to. Second column is th
 
 
 
-This dataset has been employed for the evaluation of an opinion summarisation methodology.
+
 
 ## Citation
-Please use the following citation:
+This dataset has been employed for the evaluation of an opinion summarisation methodology that it is under review. Please use the following citation:
 
 ```
 Publication under review
