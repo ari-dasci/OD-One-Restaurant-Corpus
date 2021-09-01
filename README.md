@@ -37,7 +37,7 @@ First column indicates which opinion the sentence belong to. Second column is th
 Please use the following citation:
 
 ```
-Publication under review
+The paper was accepted the 29th of August of 2021 to appear in the special issue Explainable Artificial Intelligence for Sentiment Analysis at Knowledge Based Systems. The URL of the paper and the citation will be published soon.
 ```
 
 ## Contact
