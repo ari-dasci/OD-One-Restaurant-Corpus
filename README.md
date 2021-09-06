@@ -37,7 +37,18 @@ First column indicates which opinion the sentence belong to. Second column is th
 Please use the following citation:
 
 ```
-The paper was accepted the 29th of August of 2021 to appear in the special issue Explainable Artificial Intelligence for Sentiment Analysis at Knowledge Based Systems. The URL of the paper and the citation will be published soon.
+@article{LOPEZ2021107455,
+title = {ADOPS: Aspect Discovery OPinion Summarisation Methodology based on deep learning and subgroup discovery for generating explainable opinion summaries},
+journal = {Knowledge-Based Systems},
+pages = {107455},
+year = {2021},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2021.107455},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705121007176},
+author = {Miguel López and Eugenio Martínez-Cámara and M. Victoria Luzón and Francisco Herrera},
+keywords = {Opinion summarisation, Deep learning, Aspect extraction, Subgroup discovery, Interesting rules},
+abstract = {Opinion summarisation is concerned with generating structured summaries of multiple opinions in order to provide insightful knowledge to end users. We present the Aspect Discovery for OPinion Summarisation (ADOPS) methodology, which is aimed at generating explainable and structured opinion summaries. ADOPS is built upon aspect-based sentiment analysis methods based on deep learning and Subgroup Discovery techniques. The resultant opinion summaries are presented as interesting rules, which summarise in explainable terms for humans the state of the opinion about the aspects of a specific entity. We annotate and release a new dataset of opinions about a single entity on the restaurant review domain for assessing the ADOPS methodology, and we call it ORCo. The results show that ADOPS is able to generate interesting rules with high values of support and confidence, which provide explainable and insightful knowledge about the state of the opinion of a certain entity.}
+}
 ```
 
 ## Contact
