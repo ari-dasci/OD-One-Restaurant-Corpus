@@ -35,6 +35,8 @@ First column indicates which opinion the sentence belong to. Second column is th
 
 ## Citation
 López, M., Martínez-Cámara, E., Luzón, M. V., & Herrera, F. (2021). ADOPS: Aspect Discovery OPinion Summarisation Methodology based on deep learning and subgroup discovery for generating explainable opinion summaries. Knowledge-Based Systems, 107455. 
+
+
 Please use the following citation:
 
 ```
